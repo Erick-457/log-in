@@ -1,0 +1,31 @@
+body{
+    background-color:white;
+        font-family: Arial, sans-serif;
+
+}
+p{
+    text-align: center;
+}
+h1{
+    font-family:georgia;
+    color:darkorange;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 14px;
+    color: black;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: arial;
+}
+a{
+    color: royalblue;
+    text-align: center;
+    font-family:arial;
+    margin-bottom: 20px;
+}
+a:hover{
+    text-decoration: underline;
+    color:darkorange;
+}
